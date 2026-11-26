@@ -1,0 +1,11 @@
+node_modules
+.next
+.env
+.env.local
+*.db
+*.db-*
+outbox
+.claude
+tsconfig.tsbuildinfo
+.env.production.local
+*.zip
